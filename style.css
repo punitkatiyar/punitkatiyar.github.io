@@ -9,3 +9,5 @@ header h1{
   border-radius: 0px 0px 0px 69px;
   box-shadow: 2px 2px 2px black;
 }
+.banner{ height:300px;}
+.banner h2{ text-align:center;}
