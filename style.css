@@ -10,4 +10,8 @@ header h1{
   box-shadow: 2px 2px 2px black;
 }
 .banner{ height:300px;}
-.banner h2{ text-align:center;}
+.banner h2{
+  text-align:center;
+  line-height:200px;
+  font-size:80px;
+}
