@@ -1,12 +1,12 @@
 *{ margin:0; padding:0;}
 header{height: 90vh; background-color: skyblue;}
 header h1{
-  padding: 2%; 
+  padding: 1.50%; 
   margin-left: 2%; 
   background: chocolate;
   color: white;
   text-transform: uppercase;
-  border-radius: 0px 0px 0px 69px;
+  border-radius: 0px 0px 0px 40px;
   box-shadow: 2px 2px 2px black;
   
 }
