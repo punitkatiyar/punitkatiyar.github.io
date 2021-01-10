@@ -18,3 +18,4 @@ header h1{
 }
 .banner ul{ text-align:center;}
 .banner ul li{ display:inline;}
+.banner ul li a{ padding:1% 2%;}
