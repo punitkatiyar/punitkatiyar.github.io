@@ -1,4 +1,3 @@
-# punitkatiyar.github.io
-All About web
+## All About web
 
 > https://favicon.io/
