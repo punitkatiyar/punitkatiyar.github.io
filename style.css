@@ -14,6 +14,7 @@ header h1{
   text-align:center;
   line-height:200px;
   font-size:80px;
+  color:white;
 }
 .banner ul{ text-align:center;}
 .banner ul li{ display:inline;}
