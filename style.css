@@ -15,3 +15,5 @@ header h1{
   line-height:200px;
   font-size:80px;
 }
+.banner ul{ text-align:center;}
+.banner ul li a{ display:inline;}
