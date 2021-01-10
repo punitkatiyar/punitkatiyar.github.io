@@ -8,6 +8,7 @@ header h1{
   text-transform: uppercase;
   border-radius: 0px 0px 0px 69px;
   box-shadow: 2px 2px 2px black;
+  
 }
 .banner{ height:300px;}
 .banner h2{
@@ -15,6 +16,7 @@ header h1{
   line-height:200px;
   font-size:60px;
   color:white;
+  text-shadow: 2px 2px 2px black;
 }
 .banner ul{ text-align:center;}
 .banner ul li{ display:inline;}
