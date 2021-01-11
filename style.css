@@ -1,6 +1,7 @@
 *{ margin: 0; padding: 0;}
 body{ background-color: whitesmoke;}
 header{ height: 80px; background-color: #2c3e50;}
+header a{ line-height: 80px; font-size: 40px; text-decoration: none; color: white; margin-left: 5%;}
 footer{ width: 100%; background-color: #2c3e50; position: fixed; bottom: 0px;}
 footer h4{padding: 1%; color: white; text-align: center;}
 .banner{
@@ -30,8 +31,10 @@ footer h4{padding: 1%; color: white; text-align: center;}
 }
 @media( max-width:700px)
 {
+    header{ height: 60px; text-align: center;}
+    header a{ line-height: 60px; font-size: 20px; color: white; }
     .banner{ background-size: 100%; position:relative;}
-    .banner-right{ width: 100%; float: none; position: absolute; top: 250px;}
+    .banner-right{ width: 100%; float: none; position: absolute; top: 230px;}
     .banner-right ul li{ padding: 2%;}
     .banner-right ul li a{ font-size: 16px;}
 
