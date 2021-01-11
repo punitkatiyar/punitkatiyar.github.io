@@ -16,7 +16,6 @@ footer h4{padding: 1%; color: white; text-align: center;}
    
     float: right;
 }
-.banner-right ul{}
 .banner-right ul li{
     padding: 5%; 
     background-color: white; 
@@ -27,4 +26,12 @@ footer h4{padding: 1%; color: white; text-align: center;}
 .banner-right ul li a{
     text-decoration: none;
     font-size: 20px;
+}
+@media( max-width:700px)
+{
+    .banner{ background-size: 100%; position:relative;}
+    .banner-right{ width: 100%; float: none; position: absolute; top: 250px;}
+    .banner-right ul li{ padding: 1%;}
+    .banner-right ul li a{ font-size: 16px;}
+
 }
