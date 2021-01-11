@@ -1,14 +1,15 @@
 *{ margin: 0; padding: 0;}
 body{ background-color: whitesmoke;}
-header{ height: 80px; background-color: white;}
+header{ height: 80px; background-color: #2c3e50;}
 footer{ width: 100%; background-color: #2c3e50; position: fixed; bottom: 0px;}
 footer h4{padding: 1%; color: white; text-align: center;}
 .banner{
     width: 90%; 
-    height: 650px; 
+    height: 660px; 
     background:url(profile_as_a\ developer.png) no-repeat; 
-    background-size: 70%;
+    background-size: 70% 600px;
     margin: auto;
+    margin-top: 10px;
 }
 .banner-right{
     width: 29%;
@@ -31,7 +32,7 @@ footer h4{padding: 1%; color: white; text-align: center;}
 {
     .banner{ background-size: 100%; position:relative;}
     .banner-right{ width: 100%; float: none; position: absolute; top: 250px;}
-    .banner-right ul li{ padding: 1%;}
+    .banner-right ul li{ padding: 2%;}
     .banner-right ul li a{ font-size: 16px;}
 
 }
