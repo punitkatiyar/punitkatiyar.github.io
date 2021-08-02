@@ -7,8 +7,8 @@ footer h4{padding: 1%; color: white; text-align: center;}
 .banner{
     width: 90%; 
     height: 660px; 
-    background:url(profile_as_a\ developer.png) no-repeat; 
-    background-size: 70% 600px;
+    background:url(https://www.codewithpunit.com/image/cwpbanner.jpg) no-repeat; 
+    background-size: 70% 660px;
     margin: auto;
     margin-top: 10px;
 }
