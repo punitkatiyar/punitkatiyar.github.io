@@ -8,12 +8,12 @@ footer h4{padding: 1%; color: white; text-align: center;}
     width: 90%; 
     height: 80vh; 
     background:url(https://www.codewithpunit.com/image/cwpbanner.jpg) no-repeat; 
-    background-size: 70% 80vh;
+    background-size: 80% 80vh;
     margin: auto;
     margin-top: 10px;
 }
 .banner-right{
-    width: 29%;
+    width: 20%;
     height: 80vh;
    
     float: right;
