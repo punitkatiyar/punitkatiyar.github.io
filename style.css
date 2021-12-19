@@ -6,15 +6,15 @@ footer{ width: 100%; background-color: #0099ff; position: fixed; bottom: 0px;}
 footer h4{padding: 1%; color: white; text-align: center;}
 .banner{
     width: 90%; 
-    height: 90vh; 
+    height: 80vh; 
     background:url(https://www.codewithpunit.com/image/cwpbanner.jpg) no-repeat; 
-    background-size: 70% 90vh;
+    background-size: 70% 80vh;
     margin: auto;
     margin-top: 10px;
 }
 .banner-right{
     width: 29%;
-    height: 90vh;
+    height: 80vh;
    
     float: right;
 }
