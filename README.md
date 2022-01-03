@@ -15,6 +15,12 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+## Introduction software
+
+- ### System Software 
+
+- ### Application Software
+
 
 ### favicon Generator 
 
