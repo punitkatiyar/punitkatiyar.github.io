@@ -2,7 +2,9 @@
 
 <img src="Web-Application-Development.png">
 
-## Hi  👋  I Am A ✨ Full Stack Developer And Corporate Trainer  ✨
+## Hi  👋  I Am Punit 
+
+## ✨ Full Stack Developer And Corporate Trainer  ✨
 
 - 🔭 I’m currently working on Ducat India Pvt. Ltd.
 - 🌱 I’m currently learning React and node
