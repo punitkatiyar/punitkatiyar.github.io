@@ -1,4 +1,4 @@
-# Start FullStack Development by Punit Katiyar
+# Start Full Stack Development
 
 <!-- <img src="Web-Application-Development.png"> -->
 
