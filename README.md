@@ -1,6 +1,6 @@
 # Start FullStack Development by Punit Katiyar
 
-<img src="Web-Application-Development.png">
+<!-- <img src="Web-Application-Development.png"> -->
 
 ## Hi  👋  I Am Punit 
 
@@ -15,7 +15,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-## Introduction software
+## 1.before start development ?
 
 - ### System Software 
 
