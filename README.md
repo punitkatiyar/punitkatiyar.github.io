@@ -24,6 +24,21 @@
 - > Web Application 
 - > Mobile Application
 
+- ### Web Development Module 1
+- > Client Side
+- > Server Side 
+- > Domain Name
+- > DNS
+- > Hosting
+
+- ### Client Side Module 2
+- > HTML And HTML5
+- > CSS And CSS3
+- > JavaScript
+- > Jquery
+- > Bootstrap
+- 
+
 
 ### favicon Generator 
 
