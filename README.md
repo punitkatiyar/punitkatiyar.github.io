@@ -20,6 +20,9 @@
 - ### System Software 
 
 - ### Application Software
+- > Desktop Application
+- > Web Application 
+- > Mobile Application
 
 
 ### favicon Generator 
