@@ -1,41 +1,25 @@
-*{ margin: 0; padding: 0;}
-body{ background-color: whitesmoke;}
-header{ height: 10vh; background-color: #0099ff;}
-header a{ line-height: 80px; font-size: 2rem; text-decoration: none; color: white; margin-left: 5%;}
-footer{ width: 100%; background-color: #0099ff; position: fixed; bottom: 0px;}
-footer h4{padding: 1%; color: white; text-align: center;}
+*{ margin: 0; padding: 0; box-sizing: border-box;}
+body{font-family: 'Roboto', sans-serif;}
+h1{ font-size: 2em;}
+header{
+    background-color:white ;
+    height: 10vh;
+    display: flex;
+    border-bottom: 2px solid white;
+}
+.container{ width: 80%; margin: auto; display: flex;}
+.logo{ text-decoration: none; color: #2b3a42; font-size: 1.5rem; font-weight: 500;}
 .banner{
-    width: 90%; 
-    height: 80vh; 
-    background:url(https://www.codewithpunit.com/image/cwpbanner.jpg) no-repeat; 
-    background-size: 79% 80vh;
-    margin: auto;
-    margin-top: 10px;
-}
-.banner-right{
-    width: 20%;
     height: 80vh;
-   
-    float: right;
+    background-color: #2b3a42;
+    display: flex;
 }
-.banner-right ul li{
-    padding: 4%; 
-    background-color: white; 
-    margin-bottom: 10px;
-    border: 1px solid black;
-    list-style: none;
-}
-.banner-right ul li a{
-    text-decoration: none;
-    font-size: 1.2rem;
-}
-@media( max-width:700px)
-{
-    header{ height: 60px; text-align: center;}
-    header a{ line-height: 60px; font-size: 20px; color: white; }
-    .banner{ background-size: 100%; position:relative;}
-    .banner-right{ width: 100%; float: none; position: absolute; top: 230px;}
-    .banner-right ul li{ padding: 2%;}
-    .banner-right ul li a{ font-size: 16px;}
+.banner_title{ font-size: 3em; line-height: 1.2;}
+.banner_left{ width: 50%;  color: white; padding: 2%;}
 
-}
+.info li{ font-size: 1.2em; margin-bottom: 1vh; margin-left: 2.5%;}
+.banner_left a{ color: white; text-decoration: none;}
+.banner_right{ width: 50%; font-size: 2rem;  color: #2b3a42; padding: 2%; display: flex; flex-wrap: wrap;}
+.tab{ width: 120px; height: 120px;  background: white; margin: 2%; text-align: center; cursor: pointer; border-radius: 50%; }
+.tab:hover{ border:2px double royalblue;}
+.tab i{ font-size: 1.5em; padding-top: 30%; color: royalblue; text-shadow: 1px 1px 1px black;}
