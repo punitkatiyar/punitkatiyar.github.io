@@ -22,4 +22,4 @@ header{
 .banner_right{ width: 50%; font-size: 2rem;  color: #2b3a42; padding: 2%; display: flex; flex-wrap: wrap;}
 .tab{ width: 120px; height: 120px;  background: white; margin: 2%; text-align: center; cursor: pointer; border-radius: 50%; }
 .tab:hover{ border:2px double royalblue;}
-.tab i{ font-size: 1.5em; padding-top: 30%; color: royalblue; text-shadow: 1px 1px 1px black;}
+.tab a i{ font-size: 1.5em; padding-top: 30%; color: royalblue; text-shadow: 1px 1px 1px black;}
