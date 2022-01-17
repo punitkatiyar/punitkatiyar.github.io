@@ -49,3 +49,7 @@
 
 > https://favicon.io/
 
+### Font Awesome 
+
+> https://use.fontawesome.com/releases/v5.15.4/css/all.css 
+
