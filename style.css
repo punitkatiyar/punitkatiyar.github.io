@@ -23,3 +23,10 @@ header{
 .tab{ width: 120px; height: 120px;  background: white; margin: 2%; text-align: center; cursor: pointer; border-radius: 50%; }
 .tab:hover{ border:2px double royalblue;}
 .tab a i{ font-size: 1.5em; padding-top: 30%; color: royalblue; text-shadow: 1px 1px 1px black;}
+@media(max-width:650px)
+{
+    .container{ width: 98%; margin: auto; display: flex;}
+    .banner_left{ width:100%;}
+    .banner_right{ width:100%}
+        
+}
