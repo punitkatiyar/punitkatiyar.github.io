@@ -7,11 +7,18 @@ header{
     display: flex;
     border-bottom: 2px solid white;
 }
-.container{ width: 80%; margin: auto; display: flex;}
+.container{ 
+    width: 80%; 
+    margin: auto; 
+    display: flex;
+}
+
 .logo{ text-decoration: none; color: #2b3a42; font-size: 1.5rem; font-weight: 500;}
 .banner{
     height: 80vh;
-    background-color: #2b3a42;
+    /* background-color: #2b3a42; */
+    background-image: url(image/php-banner.jpg);
+    background-size: 100% 80vh;
     display: flex;
 }
 .banner_title{ font-size: 3em; line-height: 1.2;}
